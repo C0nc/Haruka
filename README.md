@@ -15,8 +15,8 @@ Haruka identifies salient and background spatial domains across multi-slice data
 
 
 Please refer to the  
-- MERIFSH simulation [Tutorial][link-tutorial_1] (Can be downloaded by ) 
-- MERISH brain aging dataset [Tutorial][link-tutorial_2] (Can be downloaded via [link][aging_data])
+- MERFISH simulation [Tutorial][link-tutorial_1] (Can be downloaded by ) 
+- MERFISH brain aging dataset [Tutorial][link-tutorial_2] (Can be downloaded via [link][aging_data])
 
 ## Installation
 
@@ -43,7 +43,7 @@ Install MaxFuse [link][maxfuse] and scSLAT [link][scSLAT] to reproduce the downs
 
 ## Acknowledgement:
 
-This project is built based on the codebase of scVI [link][scVI]. cellcharter [link][cellcharter] and contrastiveVI [link][contrastiveVI]. 
+This project is built based on the codebase of scVI [link][scVI]. CellCharter [link][cellcharter] and contrastiveVI [link][contrastiveVI]. 
 
 ## Contribution
 
