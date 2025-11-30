@@ -50,8 +50,8 @@ This project is built based on the codebase of scVI [link][scVI]. cellcharter [l
 If you found a bug or you want to propose a new feature, please use the [issue tracker][issue-tracker].
 
 [issue-tracker]: https://github.com/C0nc/Haruka/issues
-[link-tutorial_1]: https://github.com/C0nc/River/blob/main/sim_repo.ipynb
-[link-tutorial_2]: https://github.com/C0nc/River/blob/main/aging_reproduce.ipynb
+[link-tutorial_1]: https://github.com/C0nc/Haruka/blob/main/sim_repo.ipynb
+[link-tutorial_2]: https://github.com/C0nc/Haruka/blob/main/aging_reproduce.ipynb
 [maxfuse]: https://github.com/shuxiaoc/maxfuse
 [scSLAT]: https://github.com/gao-lab/SLAT.git
 [cellcharter]: https://github.com/CSOgroup/cellcharter
