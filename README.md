@@ -38,7 +38,7 @@ pip install 'scenvi==0.4.5' --no-deps
 
 (Optional) 
 
-Install MaxFuse [link][maxfuse] and scSLAT [link][scSLAT] for reproduce the downstream analysis
+Install MaxFuse [link][maxfuse] and scSLAT [link][scSLAT] to reproduce the downstream analysis
 
 
 ## Acknowledgement:
