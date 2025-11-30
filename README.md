@@ -4,7 +4,7 @@
 
 **A Python package for identifying salient and background spatial domains in large-scale spatial omics analysis.**
 
-Haruka identifies salient and background spatial domains (DSEP) across multi-slice datasets and provides downstream analyses based on the discovered domains.
+Haruka identifies salient and background spatial domains across multi-slice datasets and provides downstream analyses based on the discovered domains.
 
 </p>
 <p align="center">
